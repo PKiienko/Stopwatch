@@ -1,0 +1,20 @@
+.time {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;    
+    background-color: dimgray;
+    border-radius: 10px;
+    font-size: 7em;
+    color: ghostwhite;
+    padding: 20px;
+}
+
+.time-unit
+{
+    background-color: rgb(46, 46, 46);
+    border: 2px solid rgb(255, 166, 0);
+    border-radius: 10px;
+    width: 1.7em;
+    text-align: center;
+}
